@@ -40,21 +40,30 @@ pada tampilan ini, apabila ingin mengubah status pesanan kita memasukkan no pesa
 pada tampilan ini, apabila kita ingin menghapus pesanan, kita memasukkan no pesanan yang ingin dihapus
 
 # Kondisi 5 - logout
-<img width="470" height="281" alt="image" src="https://github.com/user-attachments/assets/4af8b976-30bb-46f6-96d0-8881edd05084" />
+<img width="470" height="281" alt="image" src="https://github.com/user-attachments/assets/4af8b976-30bb-46f6-96d0-8881edd05084" />\
 jika kita ingin keluar maka input yes
 
-<img width="422" height="183" alt="Screenshot 2025-09-28 232637" src="https://github.com/user-attachments/assets/a42524e6-4fad-41f5-8381-0bdc2a2c32f5" />
+<img width="422" height="183" alt="Screenshot 2025-09-28 232637" src="https://github.com/user-attachments/assets/a42524e6-4fad-41f5-8381-0bdc2a2c32f5" />\
 jika kita input no maka kita akan dibalikkan untuk memasukkan username dan passord kembali
 
 # Menu User
-<img width="286" height="95" alt="image" src="https://github.com/user-attachments/assets/75214db0-91ea-4356-9144-ab8314640ff1" />
+<img width="190" height="90" alt="image" src="https://github.com/user-attachments/assets/97b8da10-77d4-4437-bcc2-7ce3a8379630" />
 
 # Kondisi 1 - tambah/create (user)
-<img width="586" height="501" alt="image" src="https://github.com/user-attachments/assets/c45a3d15-d768-4c77-b8ea-b4571160c2cd" />
+<img width="586" height="501" alt="image" src="https://github.com/user-attachments/assets/c45a3d15-d768-4c77-b8ea-b4571160c2cd" />\
 pada output ini kitaa memasukkan lingkungan dan layanan yang diinginkan
 
 # kondisi 2 - lihat/read (user)
+<img width="860" height="285" alt="image" src="https://github.com/user-attachments/assets/b1396e7b-8271-4cea-bfcc-9ef7903644e6" />\
+pada output kita akan ditampilkan layanan yang dipesan
 
+# Error valueerror
+<img width="341" height="144" alt="image" src="https://github.com/user-attachments/assets/88d89ecb-908a-41c8-b1ce-9cd72f6f1473" />\
+kondisi apabila kita salah memasukkan yang seharusnya pake angka malah pake huruf
+
+# Error KeyboardInterrupt
+<img width="618" height="131" alt="image" src="https://github.com/user-attachments/assets/98a5d3d7-d09b-42b8-a53e-de1e24034191" />\
+kondisi apabila kita memencet ctrl + c
 
 
 
